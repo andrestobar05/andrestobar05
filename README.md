@@ -16,7 +16,9 @@ I'm a student of Systems Engineering with a passion for learning and programming
 
 - 🚀 Programming, problem-solving.
 - 🎨 Creative design.
-- 📊 Data analysis and modeling.
+- 📊 Exploring data trends and visualization.
+
+
 
 **Happy coding!** 🚀
 
